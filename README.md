@@ -1,15 +1,15 @@
 ## 👋 Hey there!
 
-I’m Dawid, a passionate, results-driven **Full-Stack Software Developer** who loves turning ideas into reality through clean, efficient, user-focused web applications.  
-I enjoy solving complex problems, writing clean code, and collaborating across teams to deliver impactful digital products and always aiming for performance and maintainability.
+I’m Dawid — a **Full-Stack Software Developer** focused on building reliable, maintainable web applications.  
+I enjoy turning ideas into working products, writing clear and efficient code, and collaborating with people who care about quality software.
 
 ---
 
 ### 🧠 About Me
-- 🔧 Skilled in **end-to-end web development** — from designing responsive UIs to building high-performance APIs  
-- 🚀 Experienced with **modern frameworks** and **cloud deployment pipelines**  
-- 💡 Passionate about **continuous learning**, **agile development**, and **clean architecture**  
-- 🤝 Strong communicator who enjoys collaborating with designers, PMs, and other engineers  
+- 🔧 Comfortable working across the stack — from responsive frontends to scalable APIs  
+- 🚀 Experienced with modern frameworks, deployment, and CI/CD pipelines  
+- 💡 Always learning new tools and approaches to write better, cleaner code  
+- 🤝 Value clear communication and teamwork as much as technical skills  
 
 ---
 
