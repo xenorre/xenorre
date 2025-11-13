@@ -2,11 +2,8 @@
 
 ### 💻 Full-Stack Software Developer | 🚀 Building Scalable Web Apps | 🧠 Lifelong Learner
 
-I’m Dawid, a passionate full-stack developer who loves turning ideas into reality through clean, efficient, and user-focused software.  
-I specialize in crafting seamless experiences from backend logic to frontend polish — always aiming for performance, maintainability, and impact.
-
-I’m a results-driven **Full-Stack Software Developer** with a passion for creating efficient, user-focused web applications.  
-I enjoy solving complex problems, writing clean code, and collaborating across teams to deliver impactful digital products.
+I’m Dawid, a passionate, results-driven **Full-Stack Software Developer** who loves turning ideas into reality through clean, efficient, user-focused web applications.  
+I enjoy solving complex problems, writing clean code, and collaborating across teams to deliver impactful digital products and always aiming for performance and maintainability.
 
 ---
 
