@@ -22,7 +22,7 @@ I enjoy turning ideas into working products, writing clear and efficient code, a
 `Node.js` • `Express` • `RESTful APIs`
 
 **Databases:**  
-`PostgreSQL` • `MongoDB`
+`PostgreSQL` • `MongoDB` • `Supabase` • `Prisma ORM`
 
 **DevOps & Tools:**  
 `Docker` • `AWS` • `GitHub Actions` • `CI/CD` • `Postman`
