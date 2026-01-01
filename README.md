@@ -27,7 +27,7 @@ I enjoy turning ideas into working products, writing clear and efficient code, a
 **DevOps & Tools:**  
 `Docker` • `AWS` • `GitHub Actions` • `CI/CD` • `Postman`
 
-**Observability**
+**Observability:**
 `Posthog` • `Sentry`
 
 **Other:**  
