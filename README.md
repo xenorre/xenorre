@@ -19,13 +19,16 @@ I enjoy turning ideas into working products, writing clear and efficient code, a
 `React` • `Next.js` • `TypeScript` • `HTML5` • `CSS3` • `Tailwind CSS`
 
 **Backend:**  
-`Node.js` • `Express` • `RESTful APIs`
+`Node.js` • `Express` • `Nest.JS` • `RESTful APIs` 
 
 **Databases:**  
 `PostgreSQL` • `MongoDB` • `Supabase` • `Prisma ORM`
 
 **DevOps & Tools:**  
 `Docker` • `AWS` • `GitHub Actions` • `CI/CD` • `Postman`
+
+**Observability**
+`Posthog` • `Sentry`
 
 **Other:**  
 `Git` • `Agile / Scrum` • `Unit & Integration Testing` • `System Design`
